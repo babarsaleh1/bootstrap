@@ -18,3 +18,4 @@ function getBanner(pluginFilename) {
 }
 
 export default getBanner
+const pkgJson = path.join(__dirname, '../package.json.fix')
